@@ -9,4 +9,4 @@ GPIO.setup(PIN, GPIO.IN)
 
 while True:
     print(GPIO.input(PIN))
-    time.sleep(1000)
+    time.sleep(5)
