@@ -1,0 +1,23 @@
+{
+  "name": "soil-sensor-pof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soilSensor.js",
+  "dependencies": {
+    "onoff": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaceC00kie/soil-sensor-PoF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spaceC00kie/soil-sensor-PoF/issues"
+  },
+  "homepage": "https://github.com/spaceC00kie/soil-sensor-PoF#readme"
+}
